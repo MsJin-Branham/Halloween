@@ -9,7 +9,7 @@ t.stamp()
 t.right(90)
 t.forward(50)
 
-
+print("hi")
 wn = trtl.Screen()
 wn.addshape("hallow.gif")
 t.shape("hallow.gif")
